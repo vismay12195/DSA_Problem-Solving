@@ -1,6 +1,5 @@
 function truthTest(arr, func) {
     let num = 0;
-    let truthArr = [];
     for (let i = 0; i < arr.length; i++) {
         num = arr[i];
         if (func(num)) {
