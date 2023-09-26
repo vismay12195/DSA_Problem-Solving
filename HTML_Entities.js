@@ -14,3 +14,4 @@ function entityHTML(input) {
 }
 
 entityHTML('Stuff in "quotation marks"');
+entityHTML("Schindler's List");
